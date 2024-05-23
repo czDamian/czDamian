@@ -34,8 +34,6 @@ Currently in development, this project integrates front-end and back-end technol
 ## 📈 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=czDamian&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=czDamian&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czDamian&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
