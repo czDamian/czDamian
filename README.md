@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```text
+ ██████╗███████╗     ██████╗  █████╗ ███╗   ███╗██╗ █████╗ ███╗   ██╗
+██╔════╝╚══███╔╝     ██╔══██╗██╔══██╗████╗ ████║██║██╔══██╗████╗  ██║
+██║       ███╔╝█████╗██║  ██║███████║██╔████╔██║██║███████║██╔██╗ ██║
+██║      ███╔╝ ╚════╝██║  ██║██╔══██║██║╚██╔╝██║██║██╔══██║██║╚██╗██║
+╚██████╗███████╗     ██████╔╝██║  ██║██║ ╚═╝ ██║██║██║  ██║██║ ╚████║
+ ╚═════╝╚══════╝     ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=2000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+Agents+Developer;Mobile+App+Developer;Blockchain+Developer;Fullstack+Developer)](https://git.io/typing-svg)
+
+</div>
+
 ### 👋 About Me
 Hi there 👋, I'm **Damian**, a passionate Blockchain Developer and Full Stack Software Engineer. Currently, I serve as the **CTO of Jumpa** (building premium, AI powered chat payment gateways on Stellar, Solana, and Base) and **CTO at AcademyX**.
 
@@ -55,8 +70,10 @@ A decentralized marketplace built on the Hedera Hashgraph network that connects 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=czDamian&color=blue)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=czDamian&theme=github-dark&hide_border=true&bg_color=000000&color=00ff00&line=ff6b35&point=c9d1d9&area=true&area_color=00ff00)](https://github.com/czDamian)
 
 
 ---
